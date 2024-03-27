@@ -1,1 +1,1 @@
-# prime-service
+# prime-servic
